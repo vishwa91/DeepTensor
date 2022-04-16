@@ -1,0 +1,13 @@
+numpy
+tqdm
+opencv_python
+scikit_image
+scipy
+torchvision==0.9.1+cu102
+torchaudio==0.8.1
+tensorly==0.6.0
+torch==1.8.1+cu102
+matplotlib
+bm3d==3.0.7
+kornia==0.4.1
+scikit_learn==0.24.2
