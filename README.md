@@ -1,8 +1,10 @@
 Title: "DeepTensor: Low-Rank Tensor Decomposition with Deep Network Priors"
-This zip file supplements our main paper.The contents of this file:
 
-0. README.txt -- this readme file.
-1. code.zip -- contains python scripts to replicate results in the main paper:
+Paper: https://arxiv.org/abs/2204.03145
+
+Contennts:
+- README.txt -- this readme file.
+- code.zip -- contains python scripts to replicate results in the main paper:
 	i. data/ -- contains mat files required to run some python scripts. The folder contains a README listing the sources
 		a. cat_video.mat -- required for run_figure11.py and run_figure11_TV.py		
 		b. icvl.mat -- required for run_figure9.py and run_figure9_bm3d.py
